@@ -1,9 +1,0 @@
-
-Árboles binarios
-
-Teoría:  https://www6.uniovi.es/usr/cesar/Uned/EDA/Apuntes/TAD_apUM_04.pdf
-Ejercicios: https://www.udocz.com/apuntes/508722/a23-apellido-nombre-ejercicios#pf5
-
-Matplotlib y seaborn, y Numpy
-
-https://github.com/pazcuellar/curso-python-ejercicios/tree/master/analisis-datos-python-master
